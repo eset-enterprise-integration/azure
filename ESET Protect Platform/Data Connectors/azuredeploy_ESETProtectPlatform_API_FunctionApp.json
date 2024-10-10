@@ -342,7 +342,7 @@
                         }, 
                         {
                             "name": "WEBSITE_RUN_FROM_PACKAGE",
-                            "value": "https://github.com/eset-enterprise-integration/azure/raw/main/testapp18.zip"
+                            "value": "https://github.com/eset-enterprise-integration/azure/raw/main/ESET%20Protect%20Platform/Data%20Connectors/FunctionAppESETProtectPlatform.zip"
                         }, 
                         {
                             "name": "ENDPOINT_URI",
